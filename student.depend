@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1780595726 source:d:\mahfuz\university\cse-06 1-2 course materials\cse 061 1206\project\student\main.c
+	<stdio.h>
+	"student.h"
+
+1780634920 d:\mahfuz\university\cse-06 1-2 course materials\cse 061 1206\project\student\student.h
+
+1780635610 source:d:\mahfuz\university\cse-06 1-2 course materials\cse 061 1206\project\student\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"student.h"
+
+1780548926 source:d:\mahfuz\university\cse-06 1-2 course materials\cse 061 1206\project\student management system\main.c
+	<stdio.h>
+	"student.h"
+
+1780588120 d:\mahfuz\university\cse-06 1-2 course materials\cse 061 1206\project\student management system\student.h
+
+1780590060 source:d:\mahfuz\university\cse-06 1-2 course materials\cse 061 1206\project\student management system\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"student.h"
+
